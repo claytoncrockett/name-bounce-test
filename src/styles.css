@@ -1,0 +1,19 @@
+#App {
+  font-family: sans-serif;
+  width: 1280px;
+  height: 720px;
+  position: relative;
+}
+
+.fullname {
+  display: flex;
+  position: absolute;
+}
+
+.nameheader {
+  font-size: 45px;
+}
+
+.floating {
+  position: absolute;
+}
